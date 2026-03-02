@@ -47,5 +47,7 @@ Significant historical shifts were identified in immigration origins, specifical
 **📂 Repository Structure**
 
 ├── 7_Data_Visualization_in_Python.ipynb   # Main analysis & visualization notebook
+
 ├── Canada.xlsx                            # Raw UN Dataset
+
 └── README.md                              # Project documentation
